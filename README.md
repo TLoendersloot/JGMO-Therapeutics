@@ -19,19 +19,3 @@
             </ul>
         </nav>
     </header>
-    
-    <section id="home">
-        <h2>Welkom bij Haensgrada</h2>
-        <p>Informatie over Haensgrada, een innovatief geneesmiddel van JGMO Therapeutics.</p>
-    </section>
-    
-    <footer>
-        <p>&copy; 2025 JGMO Therapeutics - Alle rechten voorbehouden.</p>
-    </footer>
-
-    <script src="scripts/script.js"></script>
-</body>
-</html>
-
-
-
