@@ -25,26 +25,6 @@
         <p>Informatie over Haensgrada, een innovatief geneesmiddel van JGMO Therapeutics.</p>
     </section>
     
-    <section id="over">
-        <h2>Over het medicijn</h2>
-        <p>Details over hoe Haensgrada werkt en de voordelen ervan.</p>
-    </section>
-    
-    <section id="faq">
-        <h2>Veelgestelde vragen</h2>
-        <p>Antwoorden op de meest voorkomende vragen van patiënten.</p>
-    </section>
-    
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>Neem contact met ons op voor meer informatie.</p>
-    </section>
-    
-    <section id="nieuws">
-        <h2>Nieuws & updates</h2>
-        <p>De laatste ontwikkelingen over Haensgrada.</p>
-    </section>
-    
     <footer>
         <p>&copy; 2025 JGMO Therapeutics - Alle rechten voorbehouden.</p>
     </footer>
